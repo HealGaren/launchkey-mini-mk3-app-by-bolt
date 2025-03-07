@@ -1,8 +1,8 @@
-> **Note**: This entire repository, including all source code and this README, was generated through AI pair programming with [bolt.new](https://bolt.new).
+> **Note**: This entire repository, including all source code and this README, was generated through prompt engineering with [bolt.new](https://bolt.new), with the exception of bug fixes.
 
 # MIDI Controller Interface
 
-A sophisticated MIDI controller interface built with React and TypeScript, developed entirely through AI pair programming with Bolt.new at [bolt.new](https://bolt.new). This project serves as a demonstration of AI-assisted development capabilities and modern web technologies.
+A sophisticated MIDI controller interface built with React and TypeScript, developed entirely through prompt engineering with Bolt.new at [bolt.new](https://bolt.new). This project serves as a demonstration of AI-assisted development capabilities and modern web technologies.
 
 ## Demo
 
@@ -65,14 +65,14 @@ This web application provides a complete interface for MIDI controller interacti
 
 ## Development Context
 
-This project was developed entirely through AI pair programming with Bolt.new, serving as a case study for:
+This project was developed entirely through prompt engineering with Bolt.new (except for bug fixes), serving as a case study for:
 
-1. AI-driven development capabilities
+1. Prompt-driven development capabilities
 2. Complex real-time web application architecture
 3. Modern React patterns and practices
 4. WebMIDI API implementation strategies
 
-The codebase demonstrates how AI can assist in creating production-ready applications while maintaining high code quality and following best practices.
+The codebase demonstrates how prompt engineering with AI can assist in creating production-ready applications while maintaining high code quality and following best practices.
 
 ## Technical Implementation
 
@@ -98,8 +98,8 @@ The project is configured for automated deployment through GitHub Actions to Git
 
 This project showcases:
 
-1. Bolt.new's capability to handle complex application architecture
-2. AI pair programming effectiveness in real-world applications
+1. Bolt.new's capability to generate complex application architecture through prompts
+2. Prompt engineering effectiveness in real-world applications
 3. Integration of multiple modern web technologies
 4. Real-time data processing in the browser
 5. Effective state management patterns
@@ -109,5 +109,5 @@ This project showcases:
 
 Special thanks to:
 
-- [Bolt.new](https://bolt.new) for the pair programming assistance in developing this project. This implementation serves as a demonstration of AI's potential in modern software development.
+- [Bolt.new](https://bolt.new) for the prompt-based development assistance in creating this project. This implementation serves as a demonstration of AI's potential in modern software development.
 - [LaunchkeyMiniMK3](https://github.com/giezu/LaunchkeyMiniMK3) open-source project for providing the foundational research and documentation on the Novation Launchkey Mini MK3's MIDI implementation. The MIDI message definitions and device behavior understanding in this project are based on their excellent reverse engineering work.
