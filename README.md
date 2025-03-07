@@ -1,3 +1,5 @@
+> **Note**: This entire repository, including all source code and this README, was generated through AI pair programming with [bolt.new](https://bolt.new).
+
 # MIDI Controller Interface
 
 A sophisticated MIDI controller interface built with React and TypeScript, developed entirely through AI pair programming with Bolt.new at [bolt.new](https://bolt.new). This project serves as a demonstration of AI-assisted development capabilities and modern web technologies.
