@@ -4,6 +4,12 @@
 
 A sophisticated MIDI controller interface built with React and TypeScript, developed entirely through AI pair programming with Bolt.new at [bolt.new](https://bolt.new). This project serves as a demonstration of AI-assisted development capabilities and modern web technologies.
 
+## Demo
+
+You can try out the live demo at [https://healgaren.github.io/launchkey-mini-mk3-app-by-bolt/](https://healgaren.github.io/launchkey-mini-mk3-app-by-bolt/)
+
+Note: The demo requires MIDI device access through your browser. Please ensure your browser supports the WebMIDI API and you have a compatible MIDI device connected.
+
 ## Overview
 
 This web application provides a complete interface for MIDI controller interaction, featuring:
